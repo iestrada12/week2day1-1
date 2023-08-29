@@ -68,7 +68,7 @@ print(blue_beetle_summary.lower())
 print(blue_beetle_summary.replace("blue" , "red"))
 print(blue_beetle_summary.find("beetle"))
 print(blue_beetle_summary[-7:])
-print(blue_beetle_summary.())
+print(blue_beetle_summary[::-1])
 # String Practice #1: try this in repl.it
 # Define a string containing your full name.
 # Print the first 3 letters of your name using string slicing.
